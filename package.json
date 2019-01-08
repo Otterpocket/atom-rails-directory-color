@@ -1,15 +1,13 @@
 {
   "name": "rails-directory-color",
   "main": "./lib/rails-directory-color",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/inatomitk/atom-rails-directory-color",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
